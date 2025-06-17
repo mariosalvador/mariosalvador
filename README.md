@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I´m Mário Salvador</h1>
 <h3 align="center">Desenvolvedor Web Fullstack</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mário-salvador" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://mariosalvador.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-121212?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://instagram.com/mario_.salvadpr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+
+<a href="https://twitter.com/elisiomualumene" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elisiomualumene" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/elisiomualumene" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisiomualumene" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://fb.com/elisiomualumene1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elisiomualumene1" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/elisiomualumene" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elisiomualumene" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/c/elisio mualumene tv" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elisio mualumene tv" height="30" width="40" style="max-width: 100%;"></a>
 </p>
+
+
 
 ---
 
