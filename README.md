@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou o Mário Salvador</h1>
-<h3 align="center">Desenvolvedor Web • Frontend focado em UI/UX • Em transição para Fullstack</h3>
+<h1 align="center">Hi 👋, I´m Mário Salvador</h1>
+<h3 align="center">Desenvolvedor Web Fullstack</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariosalvador-dev/" target="_blank">
