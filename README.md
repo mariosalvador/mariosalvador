@@ -9,6 +9,7 @@
     </article>
   <a href="https://mariosalvador.dev" target="_blank" rel="nofollow">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="mariosalvador.dev" height="30" width="40" />
+      Portfólio
   </a>
     
 </p>
