@@ -2,14 +2,10 @@
 <h3 align="center">Desenvolvedor Web Fullstack</h3>
 
 
-<a href="https://twitter.com/elisiomualumene" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elisiomualumene" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/elisiomualumene" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisiomualumene" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://fb.com/elisiomualumene1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elisiomualumene1" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://instagram.com/elisiomualumene" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elisiomualumene" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/c/elisio mualumene tv" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elisio mualumene tv" height="30" width="40" style="max-width: 100%;"></a>
+<p>
+<a href="https://linkedin.com/in/mário-salvador" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisiomualumene" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/mario_.salvador" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elisiomualumene" height="30" width="40" style="max-width: 100%;"></a>
 </p>
-
-
 
 ---
 
