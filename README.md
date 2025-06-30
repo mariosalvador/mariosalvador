@@ -5,7 +5,6 @@
 <p>
     <article>
         <a href="https://linkedin.com/in/mário-salvador" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisiomualumene" height="30" width="40" style="max-width: 100%;"></a>
-        
 <a href="https://instagram.com/mario_.salvador" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elisiomualumene" height="30" width="40" style="max-width: 100%;"></a>
     </article>
   <a href="https://mariosalvador.vercel.app" target="_blank" rel="nofollow">
