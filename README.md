@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I´m Mário Salvador</h1>
-<h3 align="center">Desenvolvedor Web Frontend</h3>
+<h3 align="center">Software Developer</h3>
 
 
 <p>
@@ -16,7 +16,11 @@
 
 ---
 
-Desenvolvedor frontend com mais de 2 anos de experiência, atuando principalmente no ecossistema JavaScript/TypeScript. No frontend, sou especializado em construir interfaces interativas, acessíveis e responsivas com React.js e Tailwind CSS, sempre focado em boas práticas de UI e UX. No backend, venho expandindo minhas competências com Node.js, Prisma e PostgreSQL, avançando para um nível intermediário no desenvolvimento de APIs, integração com bancos de dados e estruturação de aplicações robustas. Tenho forte capacidade de resolução de problemas, pensamento lógico e organização para lidar com prazos e demandas com eficiência. Prezo pela comunicação clara e pelo trabalho em equipe, buscando contribuir de forma proativa para o sucesso dos projetos dos quais faço parte.
+Sou Software Developer com foco no ecossistema JavaScript/TypeScript, atuando no desenvolvimento de aplicações web modernas com React.js e Next.js no frontend e Node.js no backend.
+
+Tenho experiência na construção de interfaces/aplicações escaláveis, acessíveis e centradas na experiência do utilizador, aplicando boas práticas de arquitetura.
+
+Valorizo código limpo, consistente e bem estruturado, além de uma forte colaboração em equipe e comunicação clara durante o desenvolvimento de produtos. Estou em constante evolução técnica, com foco em entregar soluções que combinam qualidade, usabilidade e eficiência.
 
 ##
 <p align="center"><i>“A tecnologia não muda o mundo por si só. As pessoas, com paixão e propósito, é que mudam o mundo.” – Satya Nadella</i></p>
